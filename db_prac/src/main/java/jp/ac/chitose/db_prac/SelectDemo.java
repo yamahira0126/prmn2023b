@@ -18,7 +18,7 @@ public class SelectDemo {
                 preExam.print();
             }
 
-        } catch (SQLException e){
+        }catch (SQLException e){
             e.printStackTrace();
         }
     }
